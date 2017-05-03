@@ -103,7 +103,7 @@ class PhongbanController extends ControllerBase
      */
     public function editAction($id)
     {
-        var_dump($id);
+//        var_dump($id);
         if (!$this->request->isPost()) {
 
             $phongban = Phongban::findFirstByid($id);
@@ -141,8 +141,6 @@ class PhongbanController extends ControllerBase
 
         $phongban = new Phongban();
         $phongban->name = $this->request->getPost("name");
-
-
         if (!$phongban->save()) {
             foreach ($phongban->getMessages() as $message) {
                 $this->flash->error($message);
