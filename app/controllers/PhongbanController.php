@@ -252,7 +252,6 @@ class PhongbanController extends ControllerBase
         }
 
         $this->flash->success("phongban was deleted successfully");
-
         $this->dispatcher->forward([
             'controller' => "phongban",
             'action' => "index"
