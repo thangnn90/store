@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47ba01cd-5bfe-4533-9270-f0c65110ec3f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/PhongbanController.php" afterPath="$PROJECT_DIR$/app/controllers/PhongbanController.php" />
-    </list>
+    <list default="true" id="47ba01cd-5bfe-4533-9270-f0c65110ec3f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +34,8 @@
       <file leaf-file-name="PhongbanController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/PhongbanController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-699">
-              <caret line="193" column="0" lean-forward="true" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+            <state relative-caret-position="185">
+              <caret line="245" column="40" lean-forward="true" selection-start-line="245" selection-start-column="40" selection-end-line="245" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -240,12 +238,12 @@
       <workItem from="1493825398107" duration="4890000" />
       <workItem from="1493842367509" duration="87000" />
       <workItem from="1493848789880" duration="41000" />
-      <workItem from="1493848832769" duration="4299000" />
+      <workItem from="1493848832769" duration="4605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15643000" />
+    <option name="totallyTimeSpent" value="15949000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -257,7 +255,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="40" width="1307" height="1047" extended-state="0" />
+    <frame x="-7" y="40" width="1307" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26303127" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -518,8 +516,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/PhongbanController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-699">
-          <caret line="193" column="0" lean-forward="true" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+        <state relative-caret-position="185">
+          <caret line="245" column="40" lean-forward="true" selection-start-line="245" selection-start-column="40" selection-end-line="245" selection-end-column="40" />
           <folding />
         </state>
       </provider>
